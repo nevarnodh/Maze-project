@@ -146,4 +146,44 @@ Add rain and a possibility to stop / start the rain with a key.
 14. Extra option
 Shadows, special lightning, etc… get creative!
 
+The details of this project
+
+# Interactive 3D Game
+
+Welcome to the Interactive 3D Game repository! This project is an immersive adventure game where players navigate through 3D environments, solve puzzles, collect treasures, and overcome obstacles. This README.md file provides essential information about the project, including installation instructions, usage guidelines, and contribution guidelines.
+
+## Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Features](#features)
+4. [Contributing](#contributing)
+5. [License](#license)
+
+## Installation
+To run the game locally on your machine, follow these steps:
+
+1. Clone this repository to your local machine using Git:git clone https://github.com/nevarnodh/Maze-project.git
+
+2. Navigate to the project directory:
+cd Maze-project
+
+3. Open the `index.html` file in your web browser to play the game.
+
+## Usage
+Once you have installed the game, you can start playing immediately by opening the `index.html` file in your web browser. Use the arrow keys or WASD keys to navigate through the 3D environment. Explore the surroundings, solve puzzles, collect items, and complete objectives to progress through the game.
+
+## Features
+The Interactive 3D Game offers the following key features:
+- Immersive 3D Environment
+- Responsive Player Controls (Arrow keys or WASD)
+- Realistic Textured Surfaces (Ground, Walls, Ceiling)
+- Engaging Sound Effects for Player Interactions
+- Scoring Mechanism and Objectives
+- Game Over State with Message Display
+
+## Contributing
+Contributions to the Interactive 3D Game project are welcome and encouraged! If you have any ideas for new features, improvements, or bug fixes, please feel free to submit a pull request. Before contributing, please ensure that you have read and understood the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+This project is licensed under the [MIT License](LICENSE).
 
